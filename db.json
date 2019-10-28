@@ -2,9 +2,9 @@
 "Contactos":[
   {
     "id": 1,
-    "nombre": "Rolando",
-    "apellido": "Muñoz",
-    "numero": "12345678"
+    "Nombre": "Rolando",
+    "Apellidos": "Muñoz",
+    "Telefono": "12345678"
   }
   ]
 }
