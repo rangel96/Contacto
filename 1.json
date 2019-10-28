@@ -1,6 +1,9 @@
 {
+"Contactos": [
+      {
       "idContacto": 1,
       "nombre": "Eric",
       "apellido": "Rangel",
       "numero": "476123456"
-    }
+      }
+ }
