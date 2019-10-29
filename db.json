@@ -1,10 +1,34 @@
 {
-"Contactos":[
-  {
-    "id": 1,
-    "Nombre": "Rolando",
-    "Apellidos": "Muñoz",
-    "Telefono": "12345678"
-  }
+  "Contactos": [
+    {
+      "idContacto": 1,
+      "nombre": "Eric",
+      "apellido": "Rangel",
+      "numero": "476123456"
+    },
+    {
+      "idContacto": 2,
+      "nombre": "Alejandro",
+      "apellido": "Mendez",
+      "numero": "476123456"
+    },
+    {
+      "idContacto": 3,
+      "nombre": "Gerardo",
+      "apellido": "Gutierres",
+      "numero": "476123456"
+    },
+    {
+      "idContacto": 4,
+      "nombre": "Wuuu",
+      "apellido": "Waaa",
+      "numero": "123"
+    },
+    {
+      "idContacto": 5,
+      "nombre": "Rolando",
+      "apellido": "Muñoz",
+      "numero": "12345678"
+    }
   ]
 }
